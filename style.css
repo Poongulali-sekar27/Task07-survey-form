@@ -1,0 +1,13 @@
+.checked{
+    color: orange;
+}
+.additional{
+    height: 50px;
+    width: 100px;
+}
+.box{
+    border: 1px;
+    height: fit-content;
+    width: fit-content;
+    align-self: center;
+}
